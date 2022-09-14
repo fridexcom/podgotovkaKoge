@@ -495,7 +495,7 @@ footer.main-footer nav.footer-nav ul li a{
 /* ##### 02 : SITE HEROS  ##### */
 /*site hero 1 */
 .site-hero{
-	height: 850px;
+	height: 500px;
 	width: 100%;
 	background: #fff url("../img/site-hero.jpg") no-repeat;
 	background-size: cover;
